@@ -1,0 +1,98 @@
+/* screen - prof-s */
+
+.prof-s {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1440px;
+}
+
+.prof-s .overlap-group1 {
+  align-items: center;
+  background-color: var(--lochmara);
+  display: flex;
+  height: 154px;
+  min-width: 1440px;
+  padding: 0 35px;
+}
+
+.prof-s .professor-sign-up {
+  letter-spacing: 0;
+  min-height: 96px;
+  text-align: center;
+  width: 606px;
+}
+
+.prof-s .overlap-group {
+  height: 746px;
+  position: relative;
+  width: 1440px;
+}
+
+.prof-s .rectangle-1 {
+  background-color: var(--black);
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 596px;
+  width: 1440px;
+}
+
+.prof-s .pexels-pixabay-301926-1 {
+  height: 598px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.prof-s .group-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 35px;
+  min-height: 328px;
+  position: absolute;
+  top: 45px;
+  width: 195px;
+}
+
+.prof-s .name {
+  letter-spacing: 0;
+  margin-bottom: -18px;
+  min-height: 130px;
+  width: 280px;
+}
+
+.prof-s .university-name {
+  letter-spacing: 0;
+  margin-bottom: -18px;
+  min-height: 130px;
+  width: 280px;
+}
+
+.prof-s .country {
+  letter-spacing: 0;
+  margin-bottom: -18px;
+  min-height: 130px;
+  width: 280px;
+}
+
+.prof-s .email-id {
+  letter-spacing: 0;
+  margin-bottom: -18px;
+  min-height: 100px;
+  width: 280px;
+}
+.prof-s .button {
+  width: 100%;
+  padding: 22px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

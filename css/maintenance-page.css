@@ -1,0 +1,137 @@
+/* screen - maintenance-page */
+
+.maintenance-page {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.maintenance-page .overlap-group {
+  height: 116px;
+  position: relative;
+  width: 1440px;
+}
+
+.maintenance-page .rectangle-25 {
+  background-color: var(--lochmara);
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.maintenance-page .text-7 {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 56px;
+  font-weight: 400;
+  left: 175px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 1046px;
+}
+
+.maintenance-page .text-8 {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 44.0px;
+  min-height: 33px;
+  text-align: center;
+  width: 728px;
+}
+
+.maintenance-page .entities {
+  letter-spacing: 0;
+  margin-right: 45.0px;
+  margin-top: 13px;
+  min-height: 45px;
+  text-align: center;
+  width: 301px;
+}
+
+.maintenance-page .frame {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 37px;
+  margin-right: 45.0px;
+  padding: 0 211px;
+  width: 515px;
+}
+
+.maintenance-page .place {
+  letter-spacing: 0;
+  min-height: 34px;
+  min-width: 78px;
+  text-align: center;
+}
+
+.maintenance-page .frame-1 {
+  align-items: flex-start;
+  background-color: var(--cerulean-frost);
+  display: flex;
+  height: 37px;
+  margin-right: 45.0px;
+  padding: 0 211px;
+  width: 515px;
+}
+
+.maintenance-page .frame-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 36px;
+  margin-right: 45.0px;
+  padding: 0 211px;
+  width: 515px;
+}
+
+.maintenance-page .frame-24 {
+  align-items: flex-start;
+  background-color: var(--cerulean-frost);
+  display: flex;
+  height: 38px;
+  margin-right: 45.0px;
+  padding: 0 211px;
+  width: 515px;
+}
+
+.maintenance-page .frame-30 {
+  align-items: flex-start;
+  background-color: var(--cerulean-frost);
+  display: flex;
+  height: 36px;
+  margin-right: 45.0px;
+  margin-top: 2px;
+  padding: 0 211px;
+  width: 515px;
+}
+
+.maintenance-page .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 58px;
+  min-width: 1440px;
+}
+
+.maintenance-page .whats-app-image-10-19-at-1216-1 {
+  height: 194px;
+  object-fit: cover;
+  width: 513px;
+}
+
+.maintenance-page .frame-33 {
+  background-color: var(--black);
+  height: 191px;
+  width: 927px;
+}

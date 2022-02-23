@@ -1,0 +1,219 @@
+/* screen - student-form */
+
+.student-form {
+  background-color: var(--white);
+  height: 874px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.student-form .x2-0eqwKB {
+  background-color: transparent;
+  height: 874px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.student-form .search-button-0eqwKB {
+  background-color: transparent;
+  height: 87px;
+  left: 502px;
+  position: absolute;
+  top: 145px;
+  width: 282px;
+}
+
+
+
+.student-form .search-TESj19 {
+  background-color: transparent;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: auto;
+}
+
+.student-form .frame-58-0eqwKB {
+  background-color: var(--black);
+  height: 103px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 771px;
+  width: 1440px;
+}
+
+.student-form .frame-58-Xz5nBX {
+  background-color: var(--lochmara);
+  height: 103px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.student-form .frame-65-0eqwKB {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 129px;
+  width: 169px;
+}
+
+.student-form .university-applied-56fYv4 {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 164px;
+}
+
+.student-form .frame-66-0eqwKB {
+  background-color: transparent;
+  height: 105px;
+  left: 298px;
+  overflow: hidden;
+  position: absolute;
+  top: 115px;
+  width: 169px;
+}
+
+.student-form .funding-recieved-sE5jAa {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 164px;
+}
+
+.student-form .frame-67-0eqwKB {
+  background-color: transparent;
+  height: 91px;
+  left: 602px;
+  overflow: hidden;
+  position: absolute;
+  top: 129px;
+  width: 169px;
+}
+
+.student-form .ms-or-phd-qkIQiK {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 164px;
+}
+
+.student-form .frame-68-0eqwKB {
+  background-color: transparent;
+  height: 91px;
+  left: 894px;
+  overflow: hidden;
+  position: absolute;
+  top: 129px;
+  width: 169px;
+}
+
+.student-form .country-1FeXg0 {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 164px;
+}
+
+.student-form .frame-69-0eqwKB {
+  background-color: transparent;
+  height: 91px;
+  left: 1169px;
+  overflow: hidden;
+  position: absolute;
+  top: 129px;
+  width: 169px;
+}
+
+.student-form .supervisor-name-eubbnx {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 164px;
+}
+
+.student-form .frame-58-PHWyOU {
+  background-color: var(--black);
+  height: 157px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 717px;
+  width: 1440px;
+}
+
+.student-form .whats-app-image-10-19-at-1216-2-Fj7RvI {
+  background-color: transparent;
+  height: 157px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 492px;
+}
+
+.student-form .frame-75-0eqwKB {
+  left: 3px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 220px;
+  width: 1411px;
+}
+.student-form .table
+{
+  margin-left: 590px;
+  margin-top: 80px;
+}

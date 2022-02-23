@@ -1,0 +1,68 @@
+/* screen - signup-hyperlink */
+
+.signup-hyperlink {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 900px;
+  width: 1440px;
+}
+
+.signup-hyperlink .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/pexels-pixabay-159490-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 900px;
+  padding: 194px 364px;
+  width: 1440px;
+}
+
+.signup-hyperlink .frame-36 {
+  align-items: flex-end;
+  display: flex;
+  height: 176px;
+  overflow: hidden;
+  padding: 15px 0;
+  width: 624px;
+}
+
+.signup-hyperlink .student-signup {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 58px;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: -6px;
+  min-height: 97px;
+  text-align: center;
+  text-decoration: underline;
+  width: 609px;
+}
+
+.signup-hyperlink .frame-37 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 176px;
+  margin-right: 34.0px;
+  margin-top: 119px;
+  overflow: hidden;
+  padding: 15px 0;
+  width: 624px;
+}
+
+.signup-hyperlink .professor-signup {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 58px;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: -54px;
+  min-height: 141px;
+  text-align: center;
+  text-decoration: underline;
+  width: 678px;
+}

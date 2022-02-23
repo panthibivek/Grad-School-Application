@@ -1,0 +1,68 @@
+/* screen - about */
+
+.about {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1440px;
+}
+
+.about .overlap-group {
+  align-items: center;
+  background-color: var(--lochmara);
+  display: flex;
+  min-width: 1440px;
+}
+
+.about .whats-app-image-10-19-at-1216-1 {
+  height: 154px;
+  object-fit: cover;
+  width: 497px;
+}
+
+.about .about-the-makers {
+  letter-spacing: 0;
+  margin-left: 146px;
+  min-height: 96px;
+  text-align: center;
+  width: 606px;
+}
+
+.about .text-19 {
+  letter-spacing: 0;
+  margin-left: 26.0px;
+  margin-top: 166px;
+  min-height: 119px;
+  width: 510px;
+}
+
+.about .overlap-group1 {
+  background-color: var(--black);
+  height: 150px;
+  margin-top: 311px;
+  position: relative;
+  width: 1440px;
+}
+
+.about .rectangle-14 {
+  background-color: var(--black);
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.about .text-20 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 30px;
+  width: 1003px;
+}

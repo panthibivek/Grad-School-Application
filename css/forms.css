@@ -1,0 +1,164 @@
+/* screen - forms */
+
+.forms {
+  background-color: var(--white);
+  height: 900px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.forms .rectangle-25-jvFSnZ {
+  background-color: var(--lochmara);
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.forms .welcome-to-forms-page-jvFSnZ {
+  background-color: transparent;
+  height: auto;
+  left: 175px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 1046px;
+  font-size: 70px;
+}
+
+.forms .here-you-will-f-the-form-links-jvFSnZ {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 334px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 116px;
+  width: 728px;
+}
+
+.forms .frame-21-jvFSnZ {
+  background-color: var(--white);
+  height: 37px;
+  left: 400px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 207px;
+  width: 515px;
+}
+
+.forms .name-w4cTY6 {
+  background-color: transparent;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+  font-size: 30px;
+}
+
+.forms .frame-22-jvFSnZ {
+  background-color: var(--cerulean-frost);
+  height: 37px;
+  left: 400px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 340px;
+  width: 555px;
+}
+
+.forms .name-L4gqL9 {
+  background-color: transparent;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+  font-size: 30px;
+}
+
+.forms .frame-23-jvFSnZ {
+  background-color: var(--white);
+  height: 36px;
+  left: 400px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 458px;
+  width: 515px;
+}
+
+.forms .name-A5CDPz {
+  background-color: transparent;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+  font-size: 30px;
+}
+
+.forms .frame-24-jvFSnZ {
+  background-color: var(--cerulean-frost);
+  height: 38px;
+  left: 400px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 590px;
+  width: 555px;
+}
+
+.forms .name-IqXMKw {
+  background-color: transparent;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+  font-size: 30px;
+}
+
+.forms .frame-33-jvFSnZ {
+  background-color: var(--black);
+  height: 191px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 709px;
+  width: 1440px;
+}

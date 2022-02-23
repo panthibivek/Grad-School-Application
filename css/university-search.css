@@ -1,0 +1,164 @@
+/* screen - university-search */
+
+.university-search {
+  background-color: transparent;
+  height: 900px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.university-search .university-search-M96qHE {
+  background-color: transparent;
+  height: 900px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.university-search .frame-62-M96qHE {
+  background-color: transparent;
+  height: 85px;
+  left: -50px;
+  overflow: hidden;
+  position: absolute;
+  top: 208px;
+  width: 410px;
+}
+
+.university-search .ranking-Jrfz5c {
+  background-color: transparent;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 303px;
+}
+
+.university-search .frame-63-M96qHE {
+  background-color: transparent;
+  height: 85px;
+  left: -50px;
+  overflow: hidden;
+  position: absolute;
+  top: 208px;
+  width: 435px;
+}
+
+.university-search .ranking-Nzsa3x {
+  background-color: transparent;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 303px;
+}
+
+.university-search .frame-64-M96qHE {
+  background-color: transparent;
+  height: 85px;
+  left: 794px;
+  overflow: hidden;
+  position: absolute;
+  top: 208px;
+  width: 540px;
+}
+
+.university-search .country-TUzJLt {
+  background-color: transparent;
+  height: auto;
+  left: -10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 303px;
+}
+
+.university-search .search-button-M96qHE {
+  background-color: transparent;
+  height: 87px;
+  left: 580px;
+  position: absolute;
+  top: 200px;
+  width: 282px;
+}
+
+
+
+.university-search .search-iuYCam {
+  background-color: transparent;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: auto;
+}
+
+.university-search .frame-62-7Mrnsv {
+  background-color: var(--lochmara);
+  height: 176px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.university-search .frame-62-rVxG41 {
+  background-color: var(--black);
+  height: 144px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 756px;
+  width: 1440px;
+}
+
+.university-search .whats-app-image-10-19-at-1216-2-awtVVb {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 513px;
+}
+
+.university-search .frame-75-M96qHE {
+  left: 140px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 323px;
+  width: 1029px;
+}
+.university-search .table
+
+{
+  margin-left: 390px;
+  margin-top: 80px;
+}
+

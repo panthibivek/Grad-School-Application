@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/login.css">
+    <!---we had linked our css file----->
+</head>
+
+<body onload="document.getElementById('login-form').style.display='block'">
+    <img class="full-page" src="img/students-campus.jpeg">
+    <div class="full-page">
+        <div id='login-form' class='login-page'>
+            <div class="form-box">
+                <div class='button-box'>
+                    <div id='btn'></div>
+                    <button type='button' onclick='login()' class='toggle-btn'>Log In</button>
+                </div>
+                <form id='login' class='input-group-login'
+                    action="https://clabsql.clamv.jacobs-university.de/~ssunar/maintenance/maintenance-page.php">
+                    <input type='text' class='input-field' placeholder='Username' name="username" required>
+                    <input type='password' class='input-field' placeholder='Password' name="password" required>
+                    <input type='checkbox' class='check-box'><span>Remember Password</span>
+                    <button type='submit' class='submit-btn'>Log in</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script>
+        var x = document.getElementById('login');
+        var y = document.getElementById('register');
+        var z = document.getElementById('btn');
+        function register() {
+            x.style.left = '-400px';
+            y.style.left = '50px';
+            z.style.left = '110px';
+        }
+        function login() {
+            x.style.left = '50px';
+            y.style.left = '450px';
+            z.style.left = '0px';
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,127 @@
+/* screen - test */
+
+.test {
+  background-color: var(--white);
+  height: 900px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.test .rectangle-25-vAHp1k {
+  background-color: var(--lochmara);
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.test .frame-33-vAHp1k {
+  background-color: var(--black);
+  height: 143px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 757px;
+  width: 1440px;
+}
+
+.test .image-1-vAHp1k {
+  background-color: transparent;
+  height: 657px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1440px;
+}
+
+.test .frame-70-vAHp1k {
+  background-color: var(--black);
+  height: 143px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 757px;
+  width: 1440px;
+}
+
+.test .whats-app-image-10-19-at-1216-2-Lvj6k5 {
+  background-color: transparent;
+  height: 157px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 492px;
+}
+
+.test .frame-70-mntkyY {
+  background-color: transparent;
+  height: 91px;
+  left: 194px;
+  overflow: hidden;
+  position: absolute;
+  top: 200px;
+  width: 169px;
+}
+
+.test .test-nxptHG {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 164px;
+}
+
+.test .frame-71-vAHp1k {
+  background-color: transparent;
+  height: 91px;
+  left: 839px;
+  overflow: hidden;
+  position: absolute;
+  top: 200px;
+  width: 169px;
+}
+
+.test .country-CJQBx1 {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 164px;
+}
+
+.test .frame-76-vAHp1k {
+ 
+  left: -14px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 498px;
+  width: 1440px;
+}
+
+.test .table
+{
+  margin-left: 590px;
+  margin-top: 1px;
+}

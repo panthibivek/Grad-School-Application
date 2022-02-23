@@ -1,0 +1,92 @@
+/* screen - student-s */
+
+.student-s {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1440px;
+}
+
+.student-s .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--lochmara);
+  display: flex;
+  height: 154px;
+  min-width: 1440px;
+  padding: 19px 30px;
+}
+
+.student-s .student-sign-up {
+  letter-spacing: 0;
+  min-height: 96px;
+  text-align: center;
+  width: 606px;
+}
+
+.student-s .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/pexels-pixabay-301920-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 596px;
+  padding: 44px 36px;
+  width: 1440px;
+}
+
+.student-s .name {
+  letter-spacing: 0;
+  min-height: 85px;
+  min-width: 76px;
+  text-align: center;
+}
+
+.student-s .university-name {
+  letter-spacing: 0;
+  margin-top: 72px;
+  min-height: 28px;
+  min-width: 187px;
+  text-align: center;
+}
+
+.student-s .country {
+  letter-spacing: 0;
+  margin-top: 72px;
+  min-height: 28px;
+  min-width: 96px;
+  text-align: center;
+}
+
+.student-s .email-id {
+  letter-spacing: 0;
+  margin-left: 5px;
+  margin-top: 72px;
+  min-height: 28px;
+  min-width: 91px;
+  text-align: center;
+}
+
+.student-s .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  min-width: 1440px;
+}
+
+.student-s .rectangle-14 {
+  background-color: var(--black);
+  height: 150px;
+  width: 1440px;
+}
+.student-s .button {
+  width: 100%;
+  padding: 22px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
